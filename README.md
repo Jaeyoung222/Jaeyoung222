@@ -1,4 +1,4 @@
-# <center>**:computer: dev like art :musical_score:**</center>
+# <center>**:computer: dev like (an) art :musical_score:**</center>
 
 <h2 aligh="Left"> :chart_with_upwards_trend: Growing Dramatically :books: </h2>
 
