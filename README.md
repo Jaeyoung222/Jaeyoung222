@@ -1,6 +1,6 @@
 # <center>**:computer: dev like art :musical_score:**</center>
 
-<h2 aligh="Left">Growing Dramatically</h2>
+<h2 aligh="Left"> :chart_with_upwards_trend: Growing Dramatically :books: </h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
