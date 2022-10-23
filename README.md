@@ -7,8 +7,7 @@
 <br><br>
 <h3> 💻  Languages and Tools 💻 </h3>
 
-  <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+  <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   
   <img src="https://img.shields.io/badge/Git%20-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
   
