@@ -24,7 +24,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yt930310)](https://solved.ac/yt930310)
 
-<img src="http://mazandi.herokuapp.com/api?handle=yt930310&theme=cold"/>
-
  
  </div>
