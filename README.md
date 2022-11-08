@@ -18,8 +18,6 @@
   <a href="https://devtist.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=java&logoColor=white&link=https://devtist.tistory.com"/></a>&nbsp
   
 <br><br>
-<h3> 📆 PS Stream 🌱 </h3>
-<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yt930310)](https://solved.ac/yt930310)
